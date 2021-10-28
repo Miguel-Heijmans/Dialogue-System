@@ -1,0 +1,15 @@
+- Bob:  Line1
+- Bob:  Line2
+- Jan:  Line3
+- Jan:  Line4
+- q: 
+  - 1:
+    - choice 1
+    - Bob: choice 1 dialogue, line 1
+    - Jan: choice 1 dialogue, line 2
+    - EOD: EOD
+  - 2:
+    - choice 2
+    - Bob: choice 2 dialogue, line 1
+    - Jan: choice 2 dialogue, line 2
+    - EOD: EOD
