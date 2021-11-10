@@ -835,7 +835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b5b5d94386b7234eafc130e1e30ddd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueColor: {r: 0.12941177, g: 0.27450982, b: 0.54509807, a: 1}
+  dialogueColor: {r: 0.98156214, g: 1, b: 0, a: 1}
 --- !u!1 &954662732
 GameObject:
   m_ObjectHideFlags: 0
